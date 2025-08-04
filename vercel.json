@@ -8,5 +8,12 @@
       "source": "/(.*)",
       "destination": "/portfolio-usamashakeel.html"
     }
+  ],
+  "redirects": [
+    {
+      "source": "/",
+      "destination": "/portfolio-usamashakeel.html",
+      "permanent": false
+    }
   ]
 } 

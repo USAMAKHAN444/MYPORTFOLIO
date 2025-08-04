@@ -8,15 +8,5 @@
       "source": "/(.*)",
       "destination": "/portfolio-usamashakeel.html"
     }
-  ],
-  "routes": [
-    {
-      "src": "/",
-      "dest": "/portfolio-usamashakeel.html"
-    },
-    {
-      "src": "/index.html",
-      "dest": "/portfolio-usamashakeel.html"
-    }
   ]
 } 

@@ -7,10 +7,6 @@
     {
       "source": "/",
       "destination": "/portfolio-usamashakeel.html"
-    },
-    {
-      "source": "/(.*)",
-      "destination": "/portfolio-usamashakeel.html"
     }
   ]
 } 

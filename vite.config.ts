@@ -7,8 +7,8 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
-        main: 'index.html',
-        portfolio: 'portfolio-usamashakeel.html',
+        main: 'portfolio-usamashakeel.html',
+        index: 'index.html',
       },
       output: {
         entryFileNames: 'assets/[name]-[hash].js',
